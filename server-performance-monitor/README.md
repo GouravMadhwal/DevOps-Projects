@@ -137,5 +137,3 @@ user pts/0
 MIT License
 
 ---
-
-https://roadmap.sh/projects/server-stats
